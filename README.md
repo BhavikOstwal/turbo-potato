@@ -70,7 +70,7 @@ python main.py --mode video --source path/to/video.mp4 --model drivable
 - Press `q` to exit the visualization windows.
 - Ensure the required models (`seg.h5`, `best.pt`, `drivable.pt`) are available in the working directory.
 - If you are seeing a rotated image, comment out line 25 in `main.py`.
-- You can install weights from this particular drive link :- [Drive Link](https://drive.google.com/drive/folders/1KonFycHYrUBVg0nwwILY_8xKxf6mv18k?usp=sharing). 
+- You can download weights from this particular drive link :- [Drive Link](https://drive.google.com/drive/folders/1KonFycHYrUBVg0nwwILY_8xKxf6mv18k?usp=sharing). 
 - The weights file have to be in the same directory as of the "main.py".
 - Drivable model has not been tested without cuda.
 
